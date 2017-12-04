@@ -1,0 +1,3 @@
+module charlie {
+    requires beta;
+}
